@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'sivahsptls'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_581E18DB25A44FC98E61229950285E59 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_880E4EFFCB3C458691FE020F5A31B364 }}
